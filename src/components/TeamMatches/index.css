@@ -1,0 +1,48 @@
+/* Write your CSS here */
+.main-TemaMatches-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(
+    to bottom,
+    rgb(192, 54, 54),
+    rgb(235, 50, 50),
+    rgb(80, 12, 12)
+  );
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.banner-img {
+  margin: 20px;
+}
+
+.match-head {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 20px;
+  margin-bottom: 0px;
+}
+
+.unorder-list-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.team-matches-container {
+  background-color: #d91c1f;
+  background-size: cover;
+  display: flex;
+  color: green;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  margin: 0px;
+}
+
+.Match-card-conatainer {
+  padding-top: 0px;
+}

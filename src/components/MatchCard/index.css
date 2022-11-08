@@ -1,0 +1,52 @@
+/* Write your CSS here */
+.list-container {
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  list-style-type: none;
+  margin: 10px;
+  width: 20vw;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.team-logo {
+  height: 150px;
+  width: 150px;
+}
+
+.Match-card-cont {
+  background-color: rgb(6, 6, 56);
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.competingTeam {
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+
+.result {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 200;
+  font-size: 16px;
+  text-align: center;
+}
+
+.matchstatus {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: Bree serif;
+}
+
+.lost {
+  color: rgb(146, 14, 14);
+}
+
+.win {
+  color: green;
+}

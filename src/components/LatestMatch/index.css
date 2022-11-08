@@ -1,0 +1,58 @@
+/* Write your CSS here */
+.latest-match-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  border-radius: 10px;
+  margin: 60px;
+  padding-top: 0px;
+}
+
+.latest-match-up-container {
+  margin: 15px;
+  padding-right: 50px;
+}
+
+.latest-match-down-container {
+  margin: 20px;
+  padding-left: 60px;
+}
+
+.heading-color {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #ffffff;
+}
+
+.logo {
+  height: 150px;
+  width: 160px;
+}
+
+.team-head {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.date {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.venue {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 16px;
+}
+
+.first-innings {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+}
